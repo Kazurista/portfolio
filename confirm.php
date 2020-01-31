@@ -1,10 +1,52 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1" />
-<title>求人のお問い合わせ・応募 | 横浜の企業主導型保育 ぴーまん保育園</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+	<meta http-equiv="pragma" content="no-cache">
+	<meta name="expires" content="0">
+	<meta http-equiv="cache-control" content="no-cache, no-store">
+
+	<title>Kazurista</title>
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Megrim&display=swap" rel="stylesheet">
+
+	<!-- One Page Module Specific Stylesheet -->
+	<link rel="stylesheet" href="css/onepage.css" type="text/css" />
+	<!-- / -->
+
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/et-line.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+	<link rel="stylesheet" href="css/business.css" type="text/css">
+
+	<link rel="stylesheet" href="css/fonts.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="https://sdk.form.run/js/v2/formrun.js"></script>
+
+
+	<!-- Document Title
+	============================================= -->
+	<title>Kazurista | Portfolio</title>
+	
+
 </head>
 
 <body>
